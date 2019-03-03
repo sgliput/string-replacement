@@ -6,7 +6,7 @@
   "author": "Sam Liput",
   "license": "ISC",
   "scripts": {
-    "test": "./node_modules/karma/bin/karma start karma.conf.js"
+    "test": "node node_modules/karma/bin/karma start karma.conf.js"
   },
   "devDependencies": {
     "jasmine-core": "^2.2.0",
